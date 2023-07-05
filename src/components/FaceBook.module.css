@@ -1,0 +1,28 @@
+.profile {
+    display: flex;
+    height: 100%;
+    column-gap: 15px;
+    border: 1px solid black;
+    margin-bottom: 24px;
+}
+
+.infoContainer {
+    text-align: left;
+}
+
+.imageContainer{
+    width: 200px;
+    padding: 3px;
+}
+
+.imageContainer img{
+    
+    width: 100%;
+    height: auto;
+ 
+}
+
+.infoContainer ul{
+    list-style: none;
+    padding-left: 0;
+}
